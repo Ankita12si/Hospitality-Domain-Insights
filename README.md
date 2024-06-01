@@ -34,21 +34,17 @@
 
 ## Key Business Metrics :
 
-- **RevPar(Revenue per available room)** : Total revenue divided by total capacity.
--  **ADR(Avg. Daily Rate)** : Total revenue by Total bookings.
--  
-- **OCC %** : Occupancy % that is Total bookings divided by Total rooms available.
-- **Cancellation %** : Total cancelled bookings divided by total bookings.
--
--
-- **DBRN(Daily booked room nights)** : Total bookings divided by no. of days.
-- **DURN(Daily utilised room nights)** : Total checked out bookings divided by no. of days.
-- **DSRN(Daily sellable room nights)** : Totsl capacity divided by no. of days.
-
-
+- **RevPar(Revenue per available room)** = Total revenue divided by total capacity
+- **ADR(Avg. Daily Rate)** = Total revenue by total bookings
+- **Realization %** = Total checked out divided by total bookings
+- **Occupancy %** = Total bookings divided by Total rooms available
+- **Cancellation %** = Total cancelled bookings divided by total bookings
+- **DBRN(Daily booked room nights)** = Total bookings divided by no. of days
+- **DURN(Daily utilised room nights)** = Total checked out bookings divided by no. of days
+- **DSRN(Daily sellable room nights)** = Totsl capacity divided by no. of days
 
 ## Data Modelling and Relationships :
-Data modeling is the process of structuring and organizing data to create relationships, and establish a framework for effective data analysis and reporting. It ensures data accuracy, facilitates complex calculations, and enhances data integration, providing a solid foundation for informed decision-making and business intelligence.
+Data modeling is the process of structuring and organizing data to establish relationships and create a framework for effective analysis and reporting. This ensures data accuracy, facilitates complex calculations, and enhances data integration, laying a strong foundation for informed decision-making and business intelligence
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
@@ -64,23 +60,11 @@ Data modeling is the process of structuring and organizing data to create relati
 
 ## Dashboard:
 
-- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZjZjZDg4ZTctNTlhNy00MTNmLTg2YTktODRiMzNkYjRhMzBkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiondbe459b692c788674386) **to interact with the dashboard**
-- **Insights are incorporated in the GIFs below**
+- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZDViY2RlZWYtYzc5Mi00MjVjLTgxMzAtMzEzNDdiY2RmMzM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiondbe459b692c788674386) **to interact with the dashboard**
+- **Insights are incorporated below**
 
 ## Insights :
 
-**Formulas used**![image](https://github.com/APsachan/Hospitality-Insights/blob/main/Supporting%20Files/formula.gif)
-
-**Revenue trend vs OCC%(Occupancy%) and Cancellation% trend**![image](https://github.com/APsachan/Hospitality-Insights/blob/main/Supporting%20Files/revenue%20vs%20occ%20.gif)
-
-
-**Revenue analysis with respect to City, Property and Booking Platform**![image](https://github.com/APsachan/Hospitality-Insights/blob/main/Supporting%20Files/revenue%20vs%20city.gif)
-
-
-**Total Bookings vs Cancellation% by Booking Platform**![image](https://github.com/APsachan/Hospitality-Insights/blob/main/Supporting%20Files/total%20booking%20vs%20cancelllation%20.gif)
-
-
-**Revenue vs Booking Analysis by room class**![image](https://github.com/APsachan/Hospitality-Insights/blob/main/Supporting%20Files/revenue%20vs%20boking.gif)
 
 
 **Use of Conditional Formatting to get clear picture**![image](https://github.com/APsachan/Hospitality-Insights/blob/main/Supporting%20Files/conditional%20formatting.gif)
