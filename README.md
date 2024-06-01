@@ -26,21 +26,21 @@
 - **Aggregated bookings table (Fact table)**
     - Successful bookings vs capacity
 
+  ## Key Objectives :
+ - Analyzing various parameters and trends while keeping a close watch on essential key performance indicators (KPIs).
+ - To closely monitor and evaluate their booking operations and overall performance.
+ - Creating different perspectives, such as the **Revenue View**, **Booking View**, and **Executive View**, for a more detailed analysis of the incoming data.
 
 
-  ## Purpose of BI dashboard :
- - To closely monitor and assess their booking operations and overall performance.
+## Key Business Metrics :
 
- - Analysing various parameters and trends and keeping a close eye on essential key performance indicators (KPIs).
-
- - Building various views like the **Revenue View**, **Booking View**, **Executive View** to have a more detailed analysis of the incoming data.
-
-## Key Business Metrics that are focused upon :
-
+- **RevPar(Revenue per available room)** : Total revenue divided by total capacity.
+-  **ADR(Avg. Daily Rate)** : Total revenue by Total bookings.
+-  
 - **OCC %** : Occupancy % that is Total bookings divided by Total rooms available.
 - **Cancellation %** : Total cancelled bookings divided by total bookings.
-- **ADR(Avg. Daily Rate)** : Total revenue by Total bookings.
-- **RevPar(Revenue per available room)** : Total revenue divided by total capacity.
+-
+-
 - **DBRN(Daily booked room nights)** : Total bookings divided by no. of days.
 - **DURN(Daily utilised room nights)** : Total checked out bookings divided by no. of days.
 - **DSRN(Daily sellable room nights)** : Totsl capacity divided by no. of days.
