@@ -61,10 +61,4 @@ Data modeling is the process of structuring and organizing data to establish rel
 ## Dashboard:
 
 - [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZDViY2RlZWYtYzc5Mi00MjVjLTgxMzAtMzEzNDdiY2RmMzM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectiondbe459b692c788674386) **to interact with the dashboard**
-- **Insights are incorporated below**
 
-## Insights :
-
-
-
-**Use of Conditional Formatting to get clear picture**![image](https://github.com/APsachan/Hospitality-Insights/blob/main/Supporting%20Files/conditional%20formatting.gif)
